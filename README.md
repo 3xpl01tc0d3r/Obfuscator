@@ -38,4 +38,4 @@ Usage           Description
 
 ### Blog Post
 
-[https://3xpl01tc0d3r.blogspot.com/2020/08/obfuscator.html](https://3xpl01tc0d3r.blogspot.com/2020/08/obfuscator.html)
+[https://3xpl01tc0d3r.blogspot.com/2020/08/introduction-to-obfuscator.html](https://3xpl01tc0d3r.blogspot.com/2020/08/introduction-to-obfuscator.html)
